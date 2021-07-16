@@ -1,18 +1,18 @@
 {
    "name":"DHRUV SAHU",
-   "Employee":{
+   "employee":{
       "department":"Operations",
       "Salary":"$1Mn",
       "designation":"COO"
    },
-   "Management":[
+   "management":[
       {
          "team":"01",
-         "Name":"Finance"
+         "name":"Finance"
       },
       {
          "team":"02",
-         "Name":"Operations"
+         "name":"Operations"
       }
    ]
 }
